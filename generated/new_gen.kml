@@ -3,11 +3,11 @@
   <Document>
     <Style id="transGreen">
       <LineStyle>
-        <color>#FF1CACE8</color>
+        <color>#DD1CACE8</color>
         <width>2.5</width>
       </LineStyle>
       <PolyStyle>
-        <color>#3357FF2B</color>
+        <color>#5557FF2B</color>
       </PolyStyle>
     </Style>
     <Placemark>

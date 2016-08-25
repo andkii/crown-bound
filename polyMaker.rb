@@ -26,11 +26,11 @@ xml = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') { |xml|
         xml.Document do
             xml.Style :id =>"transGreen" do
                 xml.LineStyle do
-                    xml.color '#FF1CACE8'
+                    xml.color '#DD1CACE8'
                     xml.width "2.5"
                 end
                 xml.PolyStyle do
-                    xml.color '#3357FF2B'
+                    xml.color '#5557FF2B'
                 end
             end
             coords.each_with_index do |set, index|
