@@ -1,7 +1,7 @@
 require 'nokogiri'
 
 coords = []
-
+genDIR = 'generated'
 file = 'coords.txt'
 a = []
 File.readlines(file).each do |line|
@@ -30,7 +30,7 @@ xml = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') { |xml|
                     xml.width "2.5"
                 end
                 xml.PolyStyle do
-                    xml.color '#8057FF2B'
+                    xml.color '#3357FF2B'
                 end
             end
             coords.each_with_index do |set, index|
@@ -54,5 +54,8 @@ xml = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') { |xml|
     end
 }.to_xml
 
-Dir.mkdir 'generated'
-File.open("generated/new.kml", 'w') { |file| file.write(xml) }
+if !File.directory?(genDIR)
+    Dir.mkdir genDIR
+end
+
+File.open("generated/new_gen.kml", 'w') { |file| file.write(xml) }
