@@ -2,7 +2,28 @@ require 'nokogiri'
 
 coords = []
 genDIR = 'generated'
+coordDIR = 'coordinates'
+
 file = 'coords.txt'
+
+def init() do 
+    initDir
+end
+
+def initDir() do
+    if !File.directory?(genDIR)
+        Dir.mkdir genDIR
+    end
+    if !File.directory?(coordDIR)
+        Dir.mkdir coordDIR
+    end
+end
+
+/Dir.foreach('/path/to/dir') do |item|
+  next if item == '.' or item == '..'
+  # do work on real items
+end/
+
 a = []
 File.readlines(file).each do |line|
     if line == "\n"
@@ -53,9 +74,5 @@ xml = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') { |xml|
         end
     end
 }.to_xml
-
-if !File.directory?(genDIR)
-    Dir.mkdir genDIR
-end
 
 File.open("generated/new_gen.kml", 'w') { |file| file.write(xml) }
