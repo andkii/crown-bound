@@ -41,7 +41,7 @@ var coordStr = "";
             coordStr = coordStr + "\n";
         }else if(event.which == 220){
             var blob = new Blob([coordStr], {type: "text/plain;charset=utf-8"});
-            saveAs(blob, "coords.txt");
+            saveAs(blob, "coords.txt", true);
         }else if(event.which == 67){
             coordStr = "";
         }
