@@ -18,6 +18,7 @@ def readCoords
         next if file == '.' or file == '..'
         set = []
         File.readlines(@coordDIR + file).each do |line|
+            next if line == "\n"
             set.push line
         end
         if !set.empty?
