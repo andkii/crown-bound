@@ -137,8 +137,7 @@
 -77.92230,44.59061
 -77.93419,44.61401
 -77.95123,44.61090
--77.93423,44.58000
--77.93423,44.57997
+-77.93423,44.58000-77.93423,44.57997
 </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -152,7 +151,7 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-79.44463,45.37547
+            <coordinates>﻿-79.44463,45.37547
 -79.44416,45.37563
 -79.44459,45.37620
 -79.42579,45.38150
@@ -161,8 +160,7 @@
 -79.42592,45.36179
 -79.43086,45.36046
 -79.43553,45.36887
--79.44038,45.36767
--79.44463,45.37547
+-79.44038,45.36767﻿-79.44463,45.37547
 </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -176,7 +174,7 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-79.59805,45.35494
+            <coordinates>﻿-79.59805,45.35494
 -79.60217,45.36278
 -79.59762,45.36405
 -79.60217,45.37243
@@ -189,8 +187,7 @@
 -79.57926,45.35995
 -79.58355,45.36773
 -79.58818,45.36658
--79.58406,45.35868
--79.59805,45.35494
+-79.58406,45.35868﻿-79.59805,45.35494
 </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -204,11 +201,10 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-79.71495,45.36230
+            <coordinates>﻿-79.71495,45.36230
 -79.69058,45.36899
 -79.68122,45.35229
--79.70517,45.34589
--79.71495,45.36230
+-79.70517,45.34589﻿-79.71495,45.36230
 </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -222,7 +218,7 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-79.66796,45.37885
+            <coordinates>﻿-79.66796,45.37885
 -79.65711,45.37650
 -79.65629,45.37774
 -79.64020,45.38202
@@ -230,8 +226,7 @@
 -79.65590,45.35832
 -79.67118,45.37315
 -79.67187,45.37716
--79.66835,45.37771
--79.66796,45.37885
+-79.66835,45.37771﻿-79.66796,45.37885
 </coordinates>
           </LinearRing>
         </outerBoundaryIs>
