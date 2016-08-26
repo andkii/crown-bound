@@ -12,7 +12,7 @@
     </Style>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 0</name>
+      <name>crown0</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -31,7 +31,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 1</name>
+      <name>crown1</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -50,7 +50,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 2</name>
+      <name>crown2</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -106,7 +106,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 3</name>
+      <name>crown3</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -131,7 +131,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 4</name>
+      <name>crown4</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -154,7 +154,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 5</name>
+      <name>crown5</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -179,7 +179,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 6</name>
+      <name>crown6</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -208,7 +208,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 7</name>
+      <name>crown7</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -227,7 +227,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 8</name>
+      <name>crown8</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
