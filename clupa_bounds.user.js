@@ -9,8 +9,8 @@ var coordStr = "";
 (function() {
     'use strict';
 
-    document.addEventListener("keydown", function(evt) {
-        console.log("userscript", evt);
+    document.addEventListener("keydown", function(event) {
+        console.log("userscript", event);
         if ( event.which == 192 ) {
             var x = document.getElementsByClassName("coords-values");
             //alert(x.length);
