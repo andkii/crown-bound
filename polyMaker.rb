@@ -16,6 +16,7 @@ end
 def readCoords 
     Dir.foreach(@coordDIR) do |file|
         next if file == '.' or file == '..'
+        puts "working on" + file
         set = []
         File.readlines(@coordDIR + file).each do |line|
             next if line == '\n'

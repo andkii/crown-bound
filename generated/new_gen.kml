@@ -171,50 +171,6 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-77.94852,44.57059
--77.93187,44.57505
--77.94938,44.60720
--77.95925,44.60451
--77.95994,44.60573
--77.96998,44.60292
--77.96131,44.59064
--77.95444,44.58055
--77.95118,44.57560
--77.94835,44.57059-77.94852,44.57059
-</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#transGreen</styleUrl>
-      <name>crown 5</name>
-      <Polygon>
-        <extrude>1</extrude>
-        <altitudeMode>clampToGround</altitudeMode>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-77.93423,44.57997
--77.92629,44.58220
--77.92698,44.58333
--77.91908,44.58553
--77.92230,44.59061
--77.93419,44.61401
--77.95123,44.61090
--77.93423,44.58000-77.93423,44.57997
-</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#transGreen</styleUrl>
-      <name>crown 6</name>
-      <Polygon>
-        <extrude>1</extrude>
-        <altitudeMode>clampToGround</altitudeMode>
-        <outerBoundaryIs>
-          <LinearRing>
             <coordinates>-79.44463,45.37547
 -79.44416,45.37563
 -79.44459,45.37620
@@ -232,7 +188,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 7</name>
+      <name>crown 5</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -259,7 +215,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 8</name>
+      <name>crown 6</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -276,7 +232,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 9</name>
+      <name>crown 7</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
