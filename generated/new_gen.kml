@@ -100,6 +100,35 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
+            <coordinates>-78.85880,45.35604
+-78.81031,45.36886
+-78.81477,45.37679
+-78.81854,45.37616
+-78.81936,45.37736
+-78.81571,45.37848
+-78.81936,45.38514
+-78.83018,45.38221
+-78.83022,45.38152
+-78.83142,45.38107
+-78.83172,45.38179
+-78.86485,45.37290
+-78.86451,45.37200
+-78.86665,45.37103
+-78.85893,45.35614
+-78.85880,45.35604
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#transGreen</styleUrl>
+      <name>crown 3</name>
+      <Polygon>
+        <extrude>1</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
             <coordinates>-78.38768,44.92507
 -78.38351,44.91689
 -78.36901,44.92069
@@ -111,7 +140,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 3</name>
+      <name>crown 4</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -165,7 +194,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 4</name>
+      <name>crown 5</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -186,7 +215,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 5</name>
+      <name>crown 6</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -221,7 +250,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 6</name>
+      <name>crown 7</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -244,7 +273,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 7</name>
+      <name>crown 8</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -271,7 +300,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 8</name>
+      <name>crown 9</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
@@ -288,7 +317,7 @@
     </Placemark>
     <Placemark>
       <styleUrl>#transGreen</styleUrl>
-      <name>crown 9</name>
+      <name>crown 10</name>
       <Polygon>
         <extrude>1</extrude>
         <altitudeMode>clampToGround</altitudeMode>
